@@ -12,6 +12,8 @@
 # next.js
 /.next/
 /out/
+/.versel/
+/build
 
 # production
 /build
